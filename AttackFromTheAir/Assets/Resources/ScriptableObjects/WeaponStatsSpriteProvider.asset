@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b70d223a7b2658344817e1e7af3e4a7e, type: 3}
+  m_Name: WeaponStatsSpriteProvider
+  m_EditorClassIdentifier: 
+  _weaponStatSpriteDescriptors:
+  - WeaponStat: 0
+    Sprite: {fileID: 21300000, guid: 604a5d955e6882d41ab9fd1b9eba30c0, type: 3}
+  - WeaponStat: 1
+    Sprite: {fileID: 21300000, guid: 166bf4e6db04d264f9bf29377b582bf6, type: 3}
+  - WeaponStat: 2
+    Sprite: {fileID: 21300000, guid: fe5adf016ed3b9d43aad1badae27f501, type: 3}
+  - WeaponStat: 3
+    Sprite: {fileID: 21300000, guid: b4aefe7549674ee48a9326d7d1257365, type: 3}
+  - WeaponStat: 4
+    Sprite: {fileID: 21300000, guid: f19dddebe8410db4ea6336bae1c11399, type: 3}
+  - WeaponStat: 5
+    Sprite: {fileID: 21300000, guid: 8a5ecaeac6f72eb4d810bca32168c8b5, type: 3}

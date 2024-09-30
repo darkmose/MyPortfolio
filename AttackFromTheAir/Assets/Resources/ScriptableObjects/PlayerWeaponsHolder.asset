@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21da4740416973140b71f3cc32de2ce9, type: 3}
+  m_Name: PlayerWeaponsHolder
+  m_EditorClassIdentifier: 
+  WeaponDescriptors:
+  - WeaponType: 0
+    Prefab: {fileID: 897476292260826576, guid: 5c8fbfffcee9c314db72f3b3e53ac006, type: 3}
+  - WeaponType: 1
+    Prefab: {fileID: 4389634467730831723, guid: f60435c1e9911e248b748efd7cccad5a, type: 3}
+  - WeaponType: 2
+    Prefab: {fileID: 4380091484197676929, guid: 55546af19f199834fa96df6bd6afa647, type: 3}
+  - WeaponType: 3
+    Prefab: {fileID: 4409860896876139986, guid: 4f53d5f16bdb85243b4972f0322286ce, type: 3}
+  - WeaponType: 4
+    Prefab: {fileID: 7413018121682672364, guid: 09f0a2c8031e4fc42aa0dd9baa23f8c8, type: 3}
+  ExtraWeaponDescriptors:
+  - WeaponType: 0
+    Prefab: {fileID: 6843185861038792893, guid: 0441ea6ed64a797488e4514db20d5fda, type: 3}

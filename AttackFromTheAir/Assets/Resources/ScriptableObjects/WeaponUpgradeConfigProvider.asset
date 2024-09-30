@@ -1,0 +1,532 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c472a8d56444a2f4f940a8bc8e91e207, type: 3}
+  m_Name: WeaponUpgradeConfigProvider
+  m_EditorClassIdentifier: 
+  _playerWeaponDataDescriptors:
+  - PlayerWeaponType: 4
+    InitWeaponConfig:
+      ReloadSpeed: 5
+      Speed: 10
+      Damage: 50
+      ProjectileCount: 1
+      IsContinuousFire: 0
+      ContinuousFirerate: 0
+      ContinuousFiresBeforeReload: 0
+    RequiredLevel: 1
+    PlayerWeaponUpgradeDescriptors:
+    - UpgradeLevel: 2
+      AdditionalStats:
+        ReloadSpeed: 1
+        Speed: 1
+        Damage: 2
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 100
+      HardCost:
+        MoneyType: 3
+        Cost: 1
+    - UpgradeLevel: 3
+      AdditionalStats:
+        ReloadSpeed: 2
+        Speed: 2
+        Damage: 7
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 120
+      HardCost:
+        MoneyType: 3
+        Cost: 2
+    - UpgradeLevel: 4
+      AdditionalStats:
+        ReloadSpeed: 3
+        Speed: 4
+        Damage: 10
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 200
+      HardCost:
+        MoneyType: 3
+        Cost: 3
+    - UpgradeLevel: 5
+      AdditionalStats:
+        ReloadSpeed: 4
+        Speed: 4
+        Damage: 11
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 250
+      HardCost:
+        MoneyType: 3
+        Cost: 5
+    - UpgradeLevel: 5
+      AdditionalStats:
+        ReloadSpeed: 5
+        Speed: 5
+        Damage: 15
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 350
+      HardCost:
+        MoneyType: 3
+        Cost: 5
+  - PlayerWeaponType: 0
+    InitWeaponConfig:
+      ReloadSpeed: 5
+      Speed: 30
+      Damage: 20
+      ProjectileCount: 1
+      IsContinuousFire: 1
+      ContinuousFirerate: 5
+      ContinuousFiresBeforeReload: 15
+    RequiredLevel: 1
+    PlayerWeaponUpgradeDescriptors:
+    - UpgradeLevel: 2
+      AdditionalStats:
+        ReloadSpeed: 2
+        Speed: 5
+        Damage: 2
+        ProjectileCount: 0
+        IsContinuousFire: 1
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 120
+      HardCost:
+        MoneyType: 3
+        Cost: 2
+    - UpgradeLevel: 3
+      AdditionalStats:
+        ReloadSpeed: 2
+        Speed: 7
+        Damage: 4
+        ProjectileCount: 0
+        IsContinuousFire: 1
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 120
+      HardCost:
+        MoneyType: 3
+        Cost: 2
+    - UpgradeLevel: 4
+      AdditionalStats:
+        ReloadSpeed: 2
+        Speed: 7
+        Damage: 4
+        ProjectileCount: 0
+        IsContinuousFire: 1
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 1
+      SoftCost:
+        MoneyType: 0
+        Cost: 120
+      HardCost:
+        MoneyType: 3
+        Cost: 2
+    - UpgradeLevel: 5
+      AdditionalStats:
+        ReloadSpeed: 4
+        Speed: 8
+        Damage: 5
+        ProjectileCount: 0
+        IsContinuousFire: 1
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 1
+      SoftCost:
+        MoneyType: 0
+        Cost: 120
+      HardCost:
+        MoneyType: 3
+        Cost: 2
+    - UpgradeLevel: 6
+      AdditionalStats:
+        ReloadSpeed: 5
+        Speed: 10
+        Damage: 8
+        ProjectileCount: 0
+        IsContinuousFire: 1
+        ContinuousFirerate: 1
+        ContinuousFiresBeforeReload: 1
+      SoftCost:
+        MoneyType: 0
+        Cost: 120
+      HardCost:
+        MoneyType: 3
+        Cost: 2
+  - PlayerWeaponType: 1
+    InitWeaponConfig:
+      ReloadSpeed: 5
+      Speed: 10
+      Damage: 50
+      ProjectileCount: 1
+      IsContinuousFire: 0
+      ContinuousFirerate: 0
+      ContinuousFiresBeforeReload: 0
+    RequiredLevel: 1
+    PlayerWeaponUpgradeDescriptors:
+    - UpgradeLevel: 2
+      AdditionalStats:
+        ReloadSpeed: 1
+        Speed: 1
+        Damage: 2
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 100
+      HardCost:
+        MoneyType: 3
+        Cost: 1
+    - UpgradeLevel: 3
+      AdditionalStats:
+        ReloadSpeed: 2
+        Speed: 2
+        Damage: 7
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 120
+      HardCost:
+        MoneyType: 3
+        Cost: 2
+    - UpgradeLevel: 4
+      AdditionalStats:
+        ReloadSpeed: 3
+        Speed: 4
+        Damage: 10
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 200
+      HardCost:
+        MoneyType: 3
+        Cost: 3
+    - UpgradeLevel: 5
+      AdditionalStats:
+        ReloadSpeed: 4
+        Speed: 4
+        Damage: 11
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 250
+      HardCost:
+        MoneyType: 3
+        Cost: 5
+    - UpgradeLevel: 5
+      AdditionalStats:
+        ReloadSpeed: 5
+        Speed: 5
+        Damage: 15
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 350
+      HardCost:
+        MoneyType: 3
+        Cost: 5
+  - PlayerWeaponType: 2
+    InitWeaponConfig:
+      ReloadSpeed: 5
+      Speed: 10
+      Damage: 50
+      ProjectileCount: 1
+      IsContinuousFire: 0
+      ContinuousFirerate: 0
+      ContinuousFiresBeforeReload: 0
+    RequiredLevel: 1
+    PlayerWeaponUpgradeDescriptors:
+    - UpgradeLevel: 2
+      AdditionalStats:
+        ReloadSpeed: 1
+        Speed: 1
+        Damage: 2
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 100
+      HardCost:
+        MoneyType: 3
+        Cost: 1
+    - UpgradeLevel: 3
+      AdditionalStats:
+        ReloadSpeed: 2
+        Speed: 2
+        Damage: 7
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 120
+      HardCost:
+        MoneyType: 3
+        Cost: 2
+    - UpgradeLevel: 4
+      AdditionalStats:
+        ReloadSpeed: 3
+        Speed: 4
+        Damage: 10
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 200
+      HardCost:
+        MoneyType: 3
+        Cost: 3
+    - UpgradeLevel: 5
+      AdditionalStats:
+        ReloadSpeed: 4
+        Speed: 4
+        Damage: 11
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 250
+      HardCost:
+        MoneyType: 3
+        Cost: 5
+    - UpgradeLevel: 5
+      AdditionalStats:
+        ReloadSpeed: 5
+        Speed: 5
+        Damage: 15
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 350
+      HardCost:
+        MoneyType: 3
+        Cost: 5
+  - PlayerWeaponType: 3
+    InitWeaponConfig:
+      ReloadSpeed: 5
+      Speed: 10
+      Damage: 50
+      ProjectileCount: 1
+      IsContinuousFire: 0
+      ContinuousFirerate: 0
+      ContinuousFiresBeforeReload: 0
+    RequiredLevel: 1
+    PlayerWeaponUpgradeDescriptors:
+    - UpgradeLevel: 2
+      AdditionalStats:
+        ReloadSpeed: 1
+        Speed: 1
+        Damage: 2
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 100
+      HardCost:
+        MoneyType: 3
+        Cost: 1
+    - UpgradeLevel: 3
+      AdditionalStats:
+        ReloadSpeed: 2
+        Speed: 2
+        Damage: 7
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 120
+      HardCost:
+        MoneyType: 3
+        Cost: 2
+    - UpgradeLevel: 4
+      AdditionalStats:
+        ReloadSpeed: 3
+        Speed: 4
+        Damage: 10
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 200
+      HardCost:
+        MoneyType: 3
+        Cost: 3
+    - UpgradeLevel: 5
+      AdditionalStats:
+        ReloadSpeed: 4
+        Speed: 4
+        Damage: 11
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 250
+      HardCost:
+        MoneyType: 3
+        Cost: 5
+    - UpgradeLevel: 5
+      AdditionalStats:
+        ReloadSpeed: 5
+        Speed: 5
+        Damage: 15
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 350
+      HardCost:
+        MoneyType: 3
+        Cost: 5
+  _playerExtraWeaponDataDescriptors:
+  - ExtraWeaponType: 0
+    InitWeaponConfig:
+      ReloadSpeed: 5
+      Speed: 10
+      Damage: 50
+      ProjectileCount: 1
+      IsContinuousFire: 0
+      ContinuousFirerate: 0
+      ContinuousFiresBeforeReload: 0
+    RequiredLevel: 1
+    PlayerWeaponUpgradeDescriptors:
+    - UpgradeLevel: 2
+      AdditionalStats:
+        ReloadSpeed: 1
+        Speed: 1
+        Damage: 2
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 100
+      HardCost:
+        MoneyType: 3
+        Cost: 1
+    - UpgradeLevel: 3
+      AdditionalStats:
+        ReloadSpeed: 2
+        Speed: 2
+        Damage: 7
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 120
+      HardCost:
+        MoneyType: 3
+        Cost: 2
+    - UpgradeLevel: 4
+      AdditionalStats:
+        ReloadSpeed: 3
+        Speed: 4
+        Damage: 10
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 200
+      HardCost:
+        MoneyType: 3
+        Cost: 3
+    - UpgradeLevel: 5
+      AdditionalStats:
+        ReloadSpeed: 4
+        Speed: 4
+        Damage: 11
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 250
+      HardCost:
+        MoneyType: 3
+        Cost: 5
+    - UpgradeLevel: 5
+      AdditionalStats:
+        ReloadSpeed: 5
+        Speed: 5
+        Damage: 15
+        ProjectileCount: 0
+        IsContinuousFire: 0
+        ContinuousFirerate: 0
+        ContinuousFiresBeforeReload: 0
+      SoftCost:
+        MoneyType: 0
+        Cost: 350
+      HardCost:
+        MoneyType: 3
+        Cost: 5

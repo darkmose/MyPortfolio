@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3790ebdb1cddc014dabd947ec5a09243, type: 3}
+  m_Name: WeaponsHolder
+  m_EditorClassIdentifier: 
+  WeaponDescriptors:
+  - ProjectileType: 0
+    BulletsWeaponType: 0
+    ExploProjectileWeaponType: 0
+    HomingExploProjectileWeaponType: 0
+    Prefab: {fileID: 1089566549695018764, guid: fc0a385ee4b5bef44918fd86549ef912, type: 3}
+  - ProjectileType: 1
+    BulletsWeaponType: 0
+    ExploProjectileWeaponType: 0
+    HomingExploProjectileWeaponType: 0
+    Prefab: {fileID: 1475633865881400901, guid: 748d9079dc8e260429d25a959396f496, type: 3}

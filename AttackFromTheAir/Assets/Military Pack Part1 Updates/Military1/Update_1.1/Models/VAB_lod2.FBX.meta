@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: d4733ad26bd02f34fb1b12f7972d5f64
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder1102
+    100002: Cylinder1104
+    100004: Cylinder1105
+    100006: Line048
+    100008: Object304
+    100010: Object305
+    100012: Object306
+    100014: Object308
+    100016: Object310
+    100018: Object311
+    100020: Object312
+    100022: Object313
+    100024: VAB_DOOR_LB
+    100026: VAB_DOOR_LF
+    100028: VAB_DOOR_RB
+    100030: VAB_DOOR_RF
+    100032: VAB_DOOR_TOP1
+    100034: VAB_DOOR_TOP2
+    100036: VAB_DOOR_TOP3
+    100038: VAB_DOOR_TOP4
+    100040: VAB_DOOR_TOP5
+    100042: VAB_DOOR_TOP6
+    100044: VAB_DOOR_TOP7
+    100046: //RootNode
+    100048: VAB_WHEEL_L01
+    100050: VAB_WHEEL_L02
+    100052: VAB_WHEEL_L03
+    100054: VAB_WHEEL_R01
+    100056: VAB_WHEEL_R02
+    100058: VAB_WHEEL_R03
+    400000: Cylinder1102
+    400002: Cylinder1104
+    400004: Cylinder1105
+    400006: Line048
+    400008: Object304
+    400010: Object305
+    400012: Object306
+    400014: Object308
+    400016: Object310
+    400018: Object311
+    400020: Object312
+    400022: Object313
+    400024: VAB_DOOR_LB
+    400026: VAB_DOOR_LF
+    400028: VAB_DOOR_RB
+    400030: VAB_DOOR_RF
+    400032: VAB_DOOR_TOP1
+    400034: VAB_DOOR_TOP2
+    400036: VAB_DOOR_TOP3
+    400038: VAB_DOOR_TOP4
+    400040: VAB_DOOR_TOP5
+    400042: VAB_DOOR_TOP6
+    400044: VAB_DOOR_TOP7
+    400046: //RootNode
+    400048: VAB_WHEEL_L01
+    400050: VAB_WHEEL_L02
+    400052: VAB_WHEEL_L03
+    400054: VAB_WHEEL_R01
+    400056: VAB_WHEEL_R02
+    400058: VAB_WHEEL_R03
+    2300000: Cylinder1102
+    2300002: Cylinder1104
+    2300004: Cylinder1105
+    2300006: Line048
+    2300008: Object304
+    2300010: Object305
+    2300012: Object306
+    2300014: Object308
+    2300016: Object310
+    2300018: Object311
+    2300020: Object312
+    2300022: Object313
+    2300024: VAB_DOOR_TOP1
+    2300026: VAB_DOOR_TOP2
+    2300028: VAB_DOOR_TOP3
+    2300030: VAB_DOOR_TOP4
+    2300032: VAB_DOOR_TOP5
+    2300034: VAB_DOOR_TOP6
+    2300036: VAB_DOOR_TOP7
+    2300038: VAB_WHEEL_L01
+    2300040: VAB_WHEEL_L02
+    2300042: VAB_WHEEL_L03
+    2300044: VAB_WHEEL_R01
+    2300046: VAB_WHEEL_R02
+    2300048: VAB_WHEEL_R03
+    3300000: Cylinder1102
+    3300002: Cylinder1104
+    3300004: Cylinder1105
+    3300006: Line048
+    3300008: Object304
+    3300010: Object305
+    3300012: Object306
+    3300014: Object308
+    3300016: Object310
+    3300018: Object311
+    3300020: Object312
+    3300022: Object313
+    3300024: VAB_DOOR_TOP1
+    3300026: VAB_DOOR_TOP2
+    3300028: VAB_DOOR_TOP3
+    3300030: VAB_DOOR_TOP4
+    3300032: VAB_DOOR_TOP5
+    3300034: VAB_DOOR_TOP6
+    3300036: VAB_DOOR_TOP7
+    3300038: VAB_WHEEL_L01
+    3300040: VAB_WHEEL_L02
+    3300042: VAB_WHEEL_L03
+    3300044: VAB_WHEEL_R01
+    3300046: VAB_WHEEL_R02
+    3300048: VAB_WHEEL_R03
+    4300000: Object304
+    4300002: Object312
+    4300004: Cylinder1104
+    4300006: Object311
+    4300008: VAB_WHEEL_R01
+    4300010: VAB_WHEEL_R02
+    4300012: VAB_WHEEL_R03
+    4300014: VAB_WHEEL_L01
+    4300016: VAB_WHEEL_L03
+    4300018: Line048
+    4300020: VAB_WHEEL_L02
+    4300022: Object308
+    4300024: Object306
+    4300026: VAB_DOOR_TOP7
+    4300028: VAB_DOOR_TOP6
+    4300030: VAB_DOOR_TOP1
+    4300032: VAB_DOOR_TOP2
+    4300034: VAB_DOOR_TOP3
+    4300036: VAB_DOOR_TOP5
+    4300038: VAB_DOOR_TOP4
+    4300040: Object313
+    4300042: Cylinder1102
+    4300044: Object305
+    4300046: Object310
+    4300048: Cylinder1105
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 5e9aded44d450b44fb9da85994b5f110, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 6f92c16dd49e68e4ab681c9e2c19cbcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: ded12c2b8960a1c458bfaed315b12552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceramic
+    second: {fileID: 2100000, guid: 6271044dd51675d4e8874c28e7096334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solid Glass
+    second: {fileID: 2100000, guid: b235a7b3f0c1da241b6a427f20b3aacf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.28
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

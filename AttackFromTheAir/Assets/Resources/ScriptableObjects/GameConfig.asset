@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8ae38b51aae6bd4b8b0f7e207d94f1f, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  PlayerConfiguration:
+    ControlSensitivity: 2
+    CameraRotationSpeed: 3
+    YawTangageSpeed: 15
+    CameraMoveSpeedMin: 20
+    CameraMoveSpeedMax: 50
+    CameraZoomScaleMin: 1
+    CameraZoomScaleMax: 5
+    CameraZoomFOVMin: 120
+    CameraZoomFOVMax: 40
+    DefaultNormalizedZoomScale: 0.5
+  WalletInitConfigs:
+  - MoneyType: 0
+    InitAmount: 8000
+  - MoneyType: 1
+    InitAmount: 100
+  - MoneyType: 2
+    InitAmount: 2000
+  - MoneyType: 3
+    InitAmount: 0

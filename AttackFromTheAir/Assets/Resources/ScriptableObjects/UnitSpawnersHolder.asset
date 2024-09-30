@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c3ed238dc1251544ba303927d2994d6, type: 3}
+  m_Name: UnitSpawnersHolder
+  m_EditorClassIdentifier: 
+  Spawners:
+  - Type: 0
+    Infantry: 0
+    MediumEquipment: 0
+    HeavyEquipment: 0
+    Prefab: {fileID: 5886289556290203817, guid: ca1070755c8d5324d8d346eca76bca00, type: 3}
+  - Type: 1
+    Infantry: 0
+    MediumEquipment: 0
+    HeavyEquipment: 0
+    Prefab: {fileID: 8827791167036903665, guid: e307607040d07294387e5c43db0f11a9, type: 3}
+  - Type: 2
+    Infantry: 0
+    MediumEquipment: 0
+    HeavyEquipment: 0
+    Prefab: {fileID: 4226394648521041867, guid: d4fc94f6784656b408507f166f1cc7ed, type: 3}
+  - Type: 2
+    Infantry: 0
+    MediumEquipment: 0
+    HeavyEquipment: 1
+    Prefab: {fileID: 8697474574487228372, guid: d212106c9c2dbd847b861f93b8d8131f, type: 3}
+  - Type: 2
+    Infantry: 0
+    MediumEquipment: 0
+    HeavyEquipment: 2
+    Prefab: {fileID: 5958679238756312804, guid: 3ed2d262c6a03ae43b4ad744951bf0dd, type: 3}

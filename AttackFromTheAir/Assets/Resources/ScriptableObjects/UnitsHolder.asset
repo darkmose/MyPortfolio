@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34d787b66df256b41b50afed070d5417, type: 3}
+  m_Name: UnitsHolder
+  m_EditorClassIdentifier: 
+  Units:
+  - Type: 0
+    Infantry: 0
+    MediumEquipment: 0
+    HeavyEquipment: 0
+    Prefab: {fileID: 5940169178591682344, guid: 128789c2a434a474c877ed56cbd74671, type: 3}
+  - Type: 1
+    Infantry: 0
+    MediumEquipment: 0
+    HeavyEquipment: 0
+    Prefab: {fileID: 775898780921085539, guid: 445bf4b201214494a96af78cc52a2e92, type: 3}
+  - Type: 2
+    Infantry: 0
+    MediumEquipment: 0
+    HeavyEquipment: 0
+    Prefab: {fileID: 8101327611735105477, guid: be5247f1170361a48a5082d1c9da2364, type: 3}
+  - Type: 2
+    Infantry: 0
+    MediumEquipment: 0
+    HeavyEquipment: 1
+    Prefab: {fileID: 1520768059900978912, guid: a6e7938a16719bf498564e50d654722d, type: 3}
+  - Type: 2
+    Infantry: 0
+    MediumEquipment: 0
+    HeavyEquipment: 2
+    Prefab: {fileID: 6506085560823408479, guid: 341a72c13c51d534994e89d64526abdb, type: 3}

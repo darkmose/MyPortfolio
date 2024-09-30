@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9306b513a6197b4e8f53c89427aa6a3, type: 3}
+  m_Name: WeaponConfigsHolder
+  m_EditorClassIdentifier: 
+  WeaponConfigDescriptors:
+  - ProjectileType: 0
+    BulletsWeaponType: 0
+    ExploProjectileWeaponType: 0
+    HomingExploProjectileWeaponType: 0
+    WeaponConfig:
+      Firerate: 3
+      ShotsBeforeCooldown: 3
+      CooldownDuration: 1.5
+      FireDistance: 100
+      Damage: 5
+  - ProjectileType: 1
+    BulletsWeaponType: 0
+    ExploProjectileWeaponType: 0
+    HomingExploProjectileWeaponType: 0
+    WeaponConfig:
+      Firerate: 1
+      ShotsBeforeCooldown: 1
+      CooldownDuration: 7
+      FireDistance: 300
+      Damage: 50
