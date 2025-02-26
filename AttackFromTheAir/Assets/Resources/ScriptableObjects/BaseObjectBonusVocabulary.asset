@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4963c5126e5990446820a0ec40bb4d67, type: 3}
+  m_Name: BaseObjectBonusVocabulary
+  m_EditorClassIdentifier: 
+  _baseObjectDataDescriptions:
+  - DataType: 0
+    Description: Health
+  - DataType: 1
+    Description: Repair Duration
+  - DataType: 2
+    Description: Amount
+  - DataType: 3
+    Description: Visual Type
+  - DataType: 4
+    Description: Damage
+  - DataType: 5
+    Description: Infantry Type
+  - DataType: 6
+    Description: Infantry Health
+  - DataType: 7
+    Description: Infantry Respawn Delay
+  - DataType: 8
+    Description: Medium Equipment Type
+  - DataType: 9
+    Description: Medium Equipment Health
+  - DataType: 10
+    Description: Medium Equipment Respawn Delay
+  - DataType: 11
+    Description: Heavy Equipment Type
+  - DataType: 12
+    Description: Heavy Equipment Health
+  - DataType: 13
+    Description: Heavy Equipment Respawn Delay
+  _baseObjectSpecialBonusDataDescriptions:
+  - SpecialBonusType: 0
+    Description: Additional Level Reward
+  - SpecialBonusType: 1
+    Description: Additional Drone Use
+  _noSpecialBonusText: <color=grey>No special bonus</color>
+  _nextLevelValueDivider: <color=green>-></color>
+  _baseObjectDataFormats:
+  - BaseObjectDataType: 1
+    ValueFormat: ' min'
+  - BaseObjectDataType: 10
+    ValueFormat: ' min'
+  - BaseObjectDataType: 7
+    ValueFormat: ' min'
+  - BaseObjectDataType: 13
+    ValueFormat: ' min'
+  _baseObjectSpecialBonusDataFormats:
+  - SpecialBonusType: 0
+    ValueFormat: ' $'

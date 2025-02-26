@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7805252e8f5097a41a6da72e8bf0d193, type: 3}
+  m_Name: DroneCustomizeConfiguration
+  m_EditorClassIdentifier: 
+  _droneCustomizeDetailDescriptors:
+  - WeaponType: 0
+    DetailPrefab: {fileID: 244334907492617522, guid: 2c6efc18dcc4fad4f950c710e334823d, type: 3}
+  - WeaponType: 4
+    DetailPrefab: {fileID: 3648189441959284459, guid: 04449a9f94627484e9f7b5a8a0ba2d03, type: 3}
+  - WeaponType: 1
+    DetailPrefab: {fileID: 7797924971198758790, guid: 7d913f77c09c7254186fbad1c8ce663d, type: 3}
+  - WeaponType: 3
+    DetailPrefab: {fileID: 7797924971198758790, guid: 07434a436890e6549b5f647d57babd16, type: 3}
+  - WeaponType: 2
+    DetailPrefab: {fileID: 7797924971198758790, guid: 7d913f77c09c7254186fbad1c8ce663d, type: 3}
+  _droneCustomizeDetailLayoutConfigurations:
+  - WeaponType: 0
+    AvailableLayouts: 020000000500000006000000
+  - WeaponType: 4
+    AvailableLayouts: 02000000
+  - WeaponType: 1
+    AvailableLayouts: 0500000006000000
+  - WeaponType: 3
+    AvailableLayouts: 020000000500000006000000
+  - WeaponType: 2
+    AvailableLayouts: 020000000500000006000000
+  - WeaponType: -1
+    AvailableLayouts: 

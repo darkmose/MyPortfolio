@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d077846605f89b64b829b5e1f39572ea, type: 3}
+  m_Name: ExperienceHolder
+  m_EditorClassIdentifier: 
+  UnitExperienceDescriptors:
+  - UnitCategory: 0
+    ExperiencePoints: 100
+    ExperienceBasePoints: 50
+  - UnitCategory: 1
+    ExperiencePoints: 250
+    ExperienceBasePoints: 100
+  - UnitCategory: 2
+    ExperiencePoints: 500
+    ExperienceBasePoints: 200
+  BuildingExperienceDescriptors:
+  - BuildingType: 7
+    ExperiencePoints: 200
+    ExperienceBasePoints: 100
+  PlayerLevelExperience:
+    BaseValue: 50
+    Multiplier1: 2
+    Multiplier2: 2.5
+  BaseLevelExperienceList:
+    BaseValue: 100
+    Multiplier1: 2
+    Multiplier2: 2.5

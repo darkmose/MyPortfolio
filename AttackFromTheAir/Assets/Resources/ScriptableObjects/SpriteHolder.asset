@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 499f870424b85ce4783b07f8de9aefc7, type: 3}
+  m_Name: SpriteHolder
+  m_EditorClassIdentifier: 
+  UnitSprites:
+  - UnitCategory: 0
+    UnitSpriteImage: {fileID: 21300000, guid: 6ffd9aabcc0b8db4c9077111a92de97e, type: 3}
+  - UnitCategory: 1
+    UnitSpriteImage: {fileID: 21300000, guid: 4ed0b3ea688288041bb427cf80468ef1, type: 3}
+  - UnitCategory: 2
+    UnitSpriteImage: {fileID: 21300000, guid: 63e2ccb1d5d6b674ca88a87d9c2cae8b, type: 3}
+  ResourceSprites:
+  - ResourceType: 0
+    ResourceSpriteImage: {fileID: 21300000, guid: 3fd7079bf9b1b43449fda5ea4b145cdc, type: 3}
+  - ResourceType: 1
+    ResourceSpriteImage: {fileID: 21300000, guid: ace08f41a7c918545867e622265bace9, type: 3}
+  - ResourceType: 2
+    ResourceSpriteImage: {fileID: -1566712240, guid: e8fd2add8be2d164b9100726a7c240cd, type: 3}
+  - ResourceType: 3
+    ResourceSpriteImage: {fileID: -1566712240, guid: e8fd2add8be2d164b9100726a7c240cd, type: 3}
+  EffectSprites:
+  - EffectResourType: 0
+    ResourceSpriteImage:
+    - {fileID: -1910808802, guid: dac7f223720cca74a94e3e447fba9381, type: 3}
+    - {fileID: -1584937857, guid: dac7f223720cca74a94e3e447fba9381, type: 3}
+    - {fileID: -1389299012, guid: dac7f223720cca74a94e3e447fba9381, type: 3}
+    - {fileID: 21300000, guid: 1accc4951e1c32246938e04c626477d4, type: 3}
+    - {fileID: 790296818, guid: dac7f223720cca74a94e3e447fba9381, type: 3}

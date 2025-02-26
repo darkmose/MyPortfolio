@@ -1,0 +1,4944 @@
+fileFormatVersion: 2
+guid: dac7f223720cca74a94e3e447fba9381
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2017
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4beff4371b302243a85a757d9925bab
+      internalID: -551722494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2003
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90a9374a97522d4f816597bba84d9e6
+      internalID: -805450941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_6
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2017
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058766947704dd54cbd5a2895c790d66
+      internalID: 933275422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2009
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dc309ce7b0e33489631f79595bf9c6
+      internalID: 1026849903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_10
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2011
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0110cafb12240ca429e493fdf4b0ad3c
+      internalID: 1509238188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_11
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2017
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06220ab3fc612004285e82c3c9ca0271
+      internalID: -1267180559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_12
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2023
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c23123037b80f458cd1de91ad88468
+      internalID: -1381492120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_13
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2032
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2939480d6ddf08949b459c7ddb26a656
+      internalID: 1619557260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 972
+        width: 940
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb554257210342b49a961f8daa689863
+      internalID: -1910808802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_18
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1968
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf2bb3cc4740954ea691635748c7a30
+      internalID: -2047565732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1962
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316636f971a041d488d894a3deb03552
+      internalID: 1196332709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_21
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1968
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305134e27188a1d4187d63e4ce8d08e2
+      internalID: -214618671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_22
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1963
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf267cf0a5154141a07458efadc53fe
+      internalID: 1173357238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_23
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1962
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ca308ab9c54d54ca1172800899307d
+      internalID: -1222590915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1953
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8785738b0e722a41a1ad237576529ab
+      internalID: -115594959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1956
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329817ffa1796fc4986e4d8b8e079ab2
+      internalID: 1479750168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1957
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154526bce45dc3b47bc0b40b18868a25
+      internalID: 1958054145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_27
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1950
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf8c07446b2bea4cb98581876f11fbd
+      internalID: 463586579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_28
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1951
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1991695a38fce364b97acc5fc63964d3
+      internalID: 1596147541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1147
+        width: 765
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dd953b019a9774993019fd1a76bea6
+      internalID: -1584937857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1950
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c05a53b17423234eae2e24148796667
+      internalID: -2015177706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1909
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5731c2feef8fdfc4fb80c4bc44dd5966
+      internalID: -1006958584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_32
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1951
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e8be6b64fe21748befc987d9ed50a2
+      internalID: -1368579415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1938
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60833e5151f9f649af9a65cd4996915
+      internalID: -1530409392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_35
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1915
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb53d1f303cde6c46a52f5202bcc6804
+      internalID: 1294918995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_36
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1909
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8a8591d6bc2604ebe6bb65305dceef
+      internalID: -1518378712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_37
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1903
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcba846bd039884e8cf35de335b7240
+      internalID: 2043640632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_38
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1897
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd486e34e999dd4489e830e801924054
+      internalID: -1283081087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_39
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1872
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ebb0052ce15c949bcab7eb432fe7fc
+      internalID: -342749510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_40
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1866
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eccea7f58731854d8d9332042de1642
+      internalID: 1076083621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_41
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1860
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b77b5e1541e5104b8375e790800ed37
+      internalID: 325893746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_42
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1854
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74329de753c6a8449838674ea06347d2
+      internalID: -1618023719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_43
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1836
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d8de9467152ea42a88ee2587eef24b
+      internalID: -823701793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_44
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1824
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f595716e84d0f8a4a92afde50d2f2407
+      internalID: 1543033297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_45
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1812
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795e7df68cc52e8428fd7dbb73f181e2
+      internalID: -1901310602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_46
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1789
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70158dbcb010944d928b30ee4cc7039
+      internalID: -1471822329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_47
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1713
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567ec016df265c4409d08ddf8d1e29d1
+      internalID: -346356012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_48
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1728
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bae4bbb73285549adeeb8d33614b80
+      internalID: 331168450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_49
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1722
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953c098d18d0090428b5e739cc03ec53
+      internalID: 1945864818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_50
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1716
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9052d18c21bd9f046916a8b9e0c08bad
+      internalID: 1602684487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_51
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1710
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00f2a4fd7764ac4e9ca100c31298e91
+      internalID: -1339136114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_53
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1704
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d697a4e212fc6184d8fcee6fe27ba014
+      internalID: -826722961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_54
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1698
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7657b08aa05016b4ba46170ccee22574
+      internalID: 138135602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_55
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1672
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2bb5bd7f3d7c64794ab4136d025f71
+      internalID: -292757305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1566
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fe762e7673bf54a81149907d6e98f9
+      internalID: -583094245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_59
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1530
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bce68e1a2cc484bbe45ae40dbc70e0
+      internalID: 835498541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_60
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1566
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f0d0d03777c7f4ea23e1a42efcc11a
+      internalID: 308161416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1546
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a31d4587c897b4882dfe57fca19cd7
+      internalID: 91346355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_62
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 1554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27153d6551ab9434fa4620180ecf046a
+      internalID: -441041748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_64
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1531
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436905984803a124baa52854be7a6948
+      internalID: -1748795932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_65
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1525
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03fe07a28b3c3349835fb97138df2af
+      internalID: 166817348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_66
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1519
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee215025eef962e4c915d629ffa6ca8c
+      internalID: 1679887819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_70
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1464
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8739c437f763dd498b47eef88d1dfd4
+      internalID: -2078243061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_71
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1423
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce16e7193bc152418db83917ecf6e0c
+      internalID: 1527484325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_72
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1315
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb02bf2af8073e41b128ebf0dcc07c0
+      internalID: 1574336421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_74
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1146
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ef69a83f42dd24b9151037e48ac206
+      internalID: 1582122777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_75
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1140
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5770d642730123a449537c53b7cbd0c8
+      internalID: -961933015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_76
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1143
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f0a196e0904094c891f006432873ec
+      internalID: 117605730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_77
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1140
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f848a41666586499865be343863ef2
+      internalID: -1087692079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_78
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1122
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91beceb2cda4a24c8eb6b7fdd3fe8d6
+      internalID: 838907333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_79
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3234005b9753014bbf1050ae93e91b0
+      internalID: 373215101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_80
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1146
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36720efbf7b7a84478e1f52bb2b56efa
+      internalID: 2145784376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_81
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1141
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d12f9b72f5d6dd459cff3c4a8211fdb
+      internalID: -1159172093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_82
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1141
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a9926ec0d4d3c40943809c0a739991
+      internalID: -1120270842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_83
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1134
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4854590e18676444e86a8e1b17f6d987
+      internalID: 1741773890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_84
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1134
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a7e996896199a4d89921a0d5ea47ed
+      internalID: 529594047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_85
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1140
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60353172c479994409ccf705c178f695
+      internalID: -1378674914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_86
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1135
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0a5fbb9bd9fea4e9759652ab993ba3
+      internalID: -1854739335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_87
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1135
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37ef1fbab6fe1740b4564df1479a743
+      internalID: 1297775936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_88
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1129
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fa780d9f1903e4da7a5064d9b6735b
+      internalID: 353204856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_89
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1129
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66c4c02bd0ceca45bd6b1ab49680175
+      internalID: -726279479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_90
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1122
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3783dd18e32bb649a53dd8e8cc0e034
+      internalID: -2146880686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_91
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1123
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e216be6f1515e604bb7ed4b6153d4f35
+      internalID: 431694769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_92
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1123
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a7fe714bae70546beb3ff7e0db2c7c
+      internalID: -712105203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_93
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b06f0368242f684cbb2cef0455c48b0
+      internalID: -1762878293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_94
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef2f36c22dacd44b95ba867b1cff6b3
+      internalID: 182897065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_95
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1117
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e6cd51db9d6f04ebd3c6a542d2b4b1
+      internalID: 1937716562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_97
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1116
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051f8ff17ff4b5d41843b5f073cfd9d6
+      internalID: -256193467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_98
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1116
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71ab7125af95594f949ef99ffab9239
+      internalID: 481240776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_102
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a393dc6a2efe8d040b4b04a6a2ab3f3d
+      internalID: 594516938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_103
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1110
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25ce6b95b9dcc64d9b24c32e7d11013
+      internalID: -826701504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_104
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1110
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a47995836403c43919a45181d31980
+      internalID: -940951254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_105
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1095
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5d15d8d060a0d46ad7ec29677b4b19
+      internalID: -20412639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_106
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c21275994cdd644af075abea3c0945
+      internalID: -1768417840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_107
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953df9aa59409d842a68e2c2b709022c
+      internalID: -195971791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_109
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1098
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef7711d96898454082cec3183f55f4c
+      internalID: 223548745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_110
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1032
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac22ba581683b504f92cf546bbdfc365
+      internalID: -980544445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_112
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1092
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3e7b21e040f124ab94ea376fb7c7d9
+      internalID: 815769186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_113
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1062
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f5d8227a6664b43878e08bf5b48be0
+      internalID: -758206850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_114
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1044
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3839c279d4d0b6d47a6147cfb2c4018b
+      internalID: 347595434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_115
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1044
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bd41936df7bdf45957aa70eb8b5605
+      internalID: -1919175585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_116
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1038
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40b71e5fd2719f4aa761ecb6723bd68
+      internalID: 1654092786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_117
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1038
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef9cb6851a81c547bb023bc9d30222d
+      internalID: -1074909327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_118
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1032
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e249a3418d108a74bb799d83b7757f98
+      internalID: -1680992046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_119
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1032
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9100ed4a70896c4dbf8643562aef0fa
+      internalID: -1157407372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_120
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1003
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a1762b933791241bda65c5428d90d5
+      internalID: -1380174188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_121
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1026
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d276b5c6e5dea4da25cf7b74ee97c6
+      internalID: 1379833608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_122
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1026
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e501abceb7bc82d45832a105aa2a1a07
+      internalID: -49141946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_123
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1027
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58930221c3227d848aa75be6c9741b2c
+      internalID: 1111393441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_124
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 955
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172961bdf2536bc429e3be67eb90790f
+      internalID: -962558298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_125
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1020
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d8fa4ad0a930647af2bec01ab0a942
+      internalID: -2055426224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_126
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1020
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa8835fb27ca10419a8a0d31559aeff
+      internalID: 1028510738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_127
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1009
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e5acc1cec41e44791c2c444741d12b
+      internalID: -141930558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_128
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 912
+        width: 60
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b76f479f62af04f916b76a8e3619c2
+      internalID: -893763281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_129
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 966
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0373e19dcf2db0d4586cfd89efd562fa
+      internalID: -1940051269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_130
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 984
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2307911be987ab4a95783592fcc6cfe
+      internalID: -224808476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_131
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1014
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eff61b1aed40049b5e4df0cedb74f7
+      internalID: -419644079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_132
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 990
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7724e4bda21204a87cf64bdd4748f8
+      internalID: 2072729350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_133
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 966
+        width: 7
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f315bc0726b57794c9cdb231e785de28
+      internalID: -916671117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_134
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1003
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f189a477404d93e4987a07180c99a46f
+      internalID: -738556550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_135
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1002
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb06b42be646064caac87623a6f8a88
+      internalID: 1212359448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_136
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 996
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf47569e4ec6bff40a1da3967d2ca50b
+      internalID: -846987425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_137
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 990
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3450fb4e61191a74baa420e03acb29dd
+      internalID: -908439875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_138
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 984
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270fa350a46dcef4c919fe0cd0e0fd5a
+      internalID: 769307233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_139
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 942
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d803b2d047233ba44b713a9c98a3539a
+      internalID: -985168992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_140
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 35
+        width: 874
+        height: 966
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502738e617ffc0f4a9436bbbed43c25c
+      internalID: -1389299012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_141
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 954
+        width: 87
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b405308db7349a844bff349869a27988
+      internalID: -905497018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c443d6de8ef1e57449bda3353642750d
+      internalID: 252800787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_143
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 997
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03fc0ca4e12d0f4fa11034440fa190e
+      internalID: -15630583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_144
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 972
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd659d26863af82468ce7332e0040d7d
+      internalID: 690849860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_145
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 990
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5757b966498d02f41bca0a4a84739da7
+      internalID: -1123469544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_146
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 960
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5a3fc0b45e7d341b8d746f1b727338
+      internalID: 1776871192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_147
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 960
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64393a388e7a3a4ea69d341dbde0cb7
+      internalID: 268275888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_148
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 982
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6831c5eb4b98748bf4f20a582621ea
+      internalID: 1079280716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_149
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 985
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c84d8eac98b3147b1cf58817aece0b
+      internalID: 1987734775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_150
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 882
+        width: 174
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa59017a1494ec545ab679228768e238
+      internalID: -780620693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_151
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 966
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22ff3a3a9f55f548b181d3ee46a7bba
+      internalID: -154381811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_152
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 978
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ede09b4123e424aa73ee842724e8c8
+      internalID: 448634322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_153
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 979
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e552bc2b09e4f4299a1fb137573393
+      internalID: 502662840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_154
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 966
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90164ae2fb89524d9217bdcc95724d9
+      internalID: 1372868982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_155
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 925
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688ace32fd60c77459dba51d442877b0
+      internalID: -472171924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_156
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 972
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258f44fcab78e5b469625303b4942166
+      internalID: -468491963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_157
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 966
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e3429659beaaa4f95d4da094b4a604
+      internalID: 354561614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_158
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 954
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de4da150713a944db7f98ccb2db24d8
+      internalID: -1608000828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_159
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 960
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9562c5e461a0594fa99fb05a7ed5bf7
+      internalID: -1364541343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_160
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 954
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b648f895046ac0f4abaf6d72d3d5bacf
+      internalID: 171587000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_161
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 834
+        width: 222
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b213b5423d85544bbcce733202f087
+      internalID: 1576695392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_162
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 931
+        width: 5
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bf58f7b839baa488977628142ec786
+      internalID: 391434819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_163
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 952
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f0cdfec9d5c4840b42dabf78f3da3d
+      internalID: 1942404281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_164
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 954
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e775a07eb86a984c8f1a08157102d8b
+      internalID: 1807208038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_165
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 882
+        width: 108
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1f0f53b3083f546a4a6e4d9528e157
+      internalID: 1822422077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_166
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 930
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692828753655f8947a9ed86b5894bd8a
+      internalID: -1522363805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_167
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 934
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bb244606d122d409edbc7e02724842
+      internalID: -528367978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_168
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 942
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b69afd7a158fbc4bb9dfd729f9a503d
+      internalID: -322903044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_169
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 934
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20430a49a5c03b4a9fdc6c2f5a70fe6
+      internalID: -1280975154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_170
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 930
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14964f13c42b5241bce2f26bd8eddd3
+      internalID: 1602391100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_171
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 0
+        width: 985
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48062ae8850704a498ee1fe9388bb974
+      internalID: 790296818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_172
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 924
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d836097c494e1a4597301cd3d4cc9bd
+      internalID: -1566562656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_173
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 925
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce84f4b4bd4be488e42321f2fc0342
+      internalID: 1581971669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_174
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 900
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3e772b1de64d54b8ead4b1c4ec2114
+      internalID: 625222104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_175
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 918
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b62d56f693996e4888c3cf1815c6bd1
+      internalID: 1517615614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_176
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 858
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45812ec0b3e4d04481c73d1b44a637e
+      internalID: 1580409664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_177
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 834
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f367e2a7a9d562e4da719c567d844d2e
+      internalID: 82576399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_179
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 804
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d103e2fc6f668dd46bfd5ed376875060
+      internalID: -192093802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_180
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 786
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60a699cf3220264093eb976363ce782
+      internalID: 407811893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_181
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 732
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59c62f19a657974d830d03d315f2cc6
+      internalID: -1719524913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_183
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 757
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd4a05b6aa51f440b58b369372e5c15
+      internalID: -2113192331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_184
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 750
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55501bcc12c53fa4f90402f326da73e1
+      internalID: 898934273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_185
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 744
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870177962e601e94fa1e718dc3702cca
+      internalID: 886937029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_186
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 738
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7637a6555da9c034e88af693fee353f5
+      internalID: 1588225495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_188
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 732
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed8e0762e378f148bd7be4ac543f56b
+      internalID: -1165431952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_189
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 684
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816c686876f154246a75159845e2503a
+      internalID: 977739173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_190
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 666
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e23ddfc332425e48b44ff173cb80d40
+      internalID: 1805441573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_191
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 695
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec3ec14499b06f4bad9b4491d42a906
+      internalID: 601186002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_192
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 696
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7811f9adb41c6d0478a1a20feaf1ff3e
+      internalID: 333786181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_193
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 678
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28edc729c7fa59d40a904592782117e2
+      internalID: 1090694193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_194
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 677
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec21085fd3175e24c84b595b3dc01681
+      internalID: -1059345740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_195
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 628
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65ad8d7cbc70964ebb4a53cdb4f250c
+      internalID: -958187439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_196
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 672
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a121490e6863d1498f00e60f94ed710
+      internalID: 1984283785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_197
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 672
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43cf44d72e44eb4a9f1a63fdd378bdd
+      internalID: -353642837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_198
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 666
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379fecdd1edb95b4c8dd5a617619406d
+      internalID: -1140764563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_199
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 660
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11d8075c936b234ca2c12df4e822d5d
+      internalID: 839056130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_200
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 651
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed8de5bf78029545ae00ea4aa738cf4
+      internalID: -1212213528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_201
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 654
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57ae74e6b37445418f9fb4615534359
+      internalID: -688649615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_202
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 642
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81678ef243a19bd4883098a998fd9fe0
+      internalID: 1554963597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_203
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 648
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe352ce6ea19d484b919861f8a6e7e1c
+      internalID: -40596574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_204
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 636
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdab96f98b87554d97915aa1b45878f
+      internalID: 673659450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_205
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 630
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423b3e884a814074d9778ed69c6f4a3f
+      internalID: -710416640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_206
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 624
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9dd265eb354d74ca929bbd1ebbff39
+      internalID: 1911576972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_207
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 618
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49b21d9fd4fe654da9f4ea24c755cca
+      internalID: 843379357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_208
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 600
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2248de7268a6b0c4b993d1f1f4a9a23a
+      internalID: -293537180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_209
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 612
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782958a665282fe44ac01b2504e1a8d9
+      internalID: 477091305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_210
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 559
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e72b0dcd8131a44498c7b5616c4bf0c
+      internalID: 555809157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_211
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 588
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05829e8681393d54fb2c6b43773608e8
+      internalID: -1400382180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_212
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 583
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3210f44425ebf8d4f9fd2e2c9045fc47
+      internalID: -351643713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_213
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 564
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf2f22bdb5b40a4db9ba69d9ec3097b
+      internalID: -190322643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_214
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 576
+        width: 36
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0a00aa36bb68646b4c94901893d18c
+      internalID: 962356159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_215
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 560
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa219b20f65000d44a0cc04d86a6f27c
+      internalID: -622490111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_217
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 558
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fee56c7499cab42babb3606513d9e9
+      internalID: 92547671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_218
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 534
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27550ca35e39e4940a419dacaceb5dc6
+      internalID: -58463443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_219
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 534
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b62369a25822ea4cb79b876b96bd167
+      internalID: -39608898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_220
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 497
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49da9dd67e2106d4fb97110e5028a2b1
+      internalID: -289865507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_221
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 498
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0737fb424d93b43a447d6220e53659
+      internalID: -759868078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_222
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 462
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbe4b6d802a083459fd44766f4390fe
+      internalID: -381766603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_223
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 396
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cbf484722784b4da80bff798ad75e8
+      internalID: 1576458988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_225
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 413
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967c35d7349953f4da5fe0d73cdc100e
+      internalID: -1975793196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_226
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 390
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2a7f88c27d4974bac1d0f7123cedcb
+      internalID: -1580352304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_227
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 385
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396de8d2e82ab9440b6dd801f1a8fe6d
+      internalID: 358624910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_228
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 358
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0017dec888421a41a07c3335d0e1766
+      internalID: -1937476791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_229
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 342
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ec9c0ce99d68841ba86c3d6effa693
+      internalID: 279272120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_230
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 306
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e685dbf8e9f8db408bca78716ebc342
+      internalID: 2070473254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_231
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 336
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abaf21c8871daa4682c5519527850f8
+      internalID: 820738873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_232
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 300
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4600662614c3594c8588e7381a138e1
+      internalID: -992178512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_233
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 216
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218c7221fe278d04f8ac944f2abd2236
+      internalID: 665138516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_234
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 204
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a185103c9b16a6d45950ce6b0cd19728
+      internalID: 931467890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_235
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d97866053f584899ead29c255fe89
+      internalID: -1139329791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_236
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bc49c820c3f3340a443300841b3ed5
+      internalID: -1457339323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_237
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 24
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adaa5a4ac157b144b053a606d158c77
+      internalID: 1417262728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_238
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 24
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25346c2b422ede9418dc6f215dee7cd4
+      internalID: -1132959842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_239
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 18
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa267c3a29151484a8f91ed973cc3671
+      internalID: -1980509316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_240
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 18
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca6f804e4c22f418a0840169f85b59
+      internalID: -2120680111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_241
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 12
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dd86077735840479a889e166193bc7
+      internalID: -643812732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_242
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 12
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cc7b9274f25b14fa099679213e7c23
+      internalID: 1829399015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_243
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7b697fec669104eae009c4b00958ff
+      internalID: -1025593691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_244
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 6
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7612947f79b2e46a5723bd417843ff
+      internalID: 2056575547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_245
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54533029b280d904f8f330dc98d79760
+      internalID: -1756380224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundmouse_Black_hole_dust_particles_explosion_white_background_246
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5358538182c2f44181bd1d066b134b9
+      internalID: -1316544332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b52cfa4c428012643a15bd6cb631a8bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      roundmouse_Black_hole_dust_particles_explosion_white_background_0: 1542668938
+      roundmouse_Black_hole_dust_particles_explosion_white_background_1: -748477652
+      roundmouse_Black_hole_dust_particles_explosion_white_background_10: 1509238188
+      roundmouse_Black_hole_dust_particles_explosion_white_background_100: 984034944
+      roundmouse_Black_hole_dust_particles_explosion_white_background_101: -1102489501
+      roundmouse_Black_hole_dust_particles_explosion_white_background_102: 594516938
+      roundmouse_Black_hole_dust_particles_explosion_white_background_103: -826701504
+      roundmouse_Black_hole_dust_particles_explosion_white_background_104: -940951254
+      roundmouse_Black_hole_dust_particles_explosion_white_background_105: -20412639
+      roundmouse_Black_hole_dust_particles_explosion_white_background_106: -1768417840
+      roundmouse_Black_hole_dust_particles_explosion_white_background_107: -195971791
+      roundmouse_Black_hole_dust_particles_explosion_white_background_108: -1500016482
+      roundmouse_Black_hole_dust_particles_explosion_white_background_109: 223548745
+      roundmouse_Black_hole_dust_particles_explosion_white_background_11: -1267180559
+      roundmouse_Black_hole_dust_particles_explosion_white_background_110: -980544445
+      roundmouse_Black_hole_dust_particles_explosion_white_background_111: -192541943
+      roundmouse_Black_hole_dust_particles_explosion_white_background_112: 815769186
+      roundmouse_Black_hole_dust_particles_explosion_white_background_113: -758206850
+      roundmouse_Black_hole_dust_particles_explosion_white_background_114: 347595434
+      roundmouse_Black_hole_dust_particles_explosion_white_background_115: -1919175585
+      roundmouse_Black_hole_dust_particles_explosion_white_background_116: 1654092786
+      roundmouse_Black_hole_dust_particles_explosion_white_background_117: -1074909327
+      roundmouse_Black_hole_dust_particles_explosion_white_background_118: -1680992046
+      roundmouse_Black_hole_dust_particles_explosion_white_background_119: -1157407372
+      roundmouse_Black_hole_dust_particles_explosion_white_background_12: -1381492120
+      roundmouse_Black_hole_dust_particles_explosion_white_background_120: -1380174188
+      roundmouse_Black_hole_dust_particles_explosion_white_background_121: 1379833608
+      roundmouse_Black_hole_dust_particles_explosion_white_background_122: -49141946
+      roundmouse_Black_hole_dust_particles_explosion_white_background_123: 1111393441
+      roundmouse_Black_hole_dust_particles_explosion_white_background_124: -962558298
+      roundmouse_Black_hole_dust_particles_explosion_white_background_125: -2055426224
+      roundmouse_Black_hole_dust_particles_explosion_white_background_126: 1028510738
+      roundmouse_Black_hole_dust_particles_explosion_white_background_127: -141930558
+      roundmouse_Black_hole_dust_particles_explosion_white_background_128: -893763281
+      roundmouse_Black_hole_dust_particles_explosion_white_background_129: -1940051269
+      roundmouse_Black_hole_dust_particles_explosion_white_background_13: 1619557260
+      roundmouse_Black_hole_dust_particles_explosion_white_background_130: -224808476
+      roundmouse_Black_hole_dust_particles_explosion_white_background_131: -419644079
+      roundmouse_Black_hole_dust_particles_explosion_white_background_132: 2072729350
+      roundmouse_Black_hole_dust_particles_explosion_white_background_133: -916671117
+      roundmouse_Black_hole_dust_particles_explosion_white_background_134: -738556550
+      roundmouse_Black_hole_dust_particles_explosion_white_background_135: 1212359448
+      roundmouse_Black_hole_dust_particles_explosion_white_background_136: -846987425
+      roundmouse_Black_hole_dust_particles_explosion_white_background_137: -908439875
+      roundmouse_Black_hole_dust_particles_explosion_white_background_138: 769307233
+      roundmouse_Black_hole_dust_particles_explosion_white_background_139: -985168992
+      roundmouse_Black_hole_dust_particles_explosion_white_background_14: -739318300
+      roundmouse_Black_hole_dust_particles_explosion_white_background_140: -1389299012
+      roundmouse_Black_hole_dust_particles_explosion_white_background_141: -905497018
+      roundmouse_Black_hole_dust_particles_explosion_white_background_142: 252800787
+      roundmouse_Black_hole_dust_particles_explosion_white_background_143: -15630583
+      roundmouse_Black_hole_dust_particles_explosion_white_background_144: 690849860
+      roundmouse_Black_hole_dust_particles_explosion_white_background_145: -1123469544
+      roundmouse_Black_hole_dust_particles_explosion_white_background_146: 1776871192
+      roundmouse_Black_hole_dust_particles_explosion_white_background_147: 268275888
+      roundmouse_Black_hole_dust_particles_explosion_white_background_148: 1079280716
+      roundmouse_Black_hole_dust_particles_explosion_white_background_149: 1987734775
+      roundmouse_Black_hole_dust_particles_explosion_white_background_15: -1910808802
+      roundmouse_Black_hole_dust_particles_explosion_white_background_150: -780620693
+      roundmouse_Black_hole_dust_particles_explosion_white_background_151: -154381811
+      roundmouse_Black_hole_dust_particles_explosion_white_background_152: 448634322
+      roundmouse_Black_hole_dust_particles_explosion_white_background_153: 502662840
+      roundmouse_Black_hole_dust_particles_explosion_white_background_154: 1372868982
+      roundmouse_Black_hole_dust_particles_explosion_white_background_155: -472171924
+      roundmouse_Black_hole_dust_particles_explosion_white_background_156: -468491963
+      roundmouse_Black_hole_dust_particles_explosion_white_background_157: 354561614
+      roundmouse_Black_hole_dust_particles_explosion_white_background_158: -1608000828
+      roundmouse_Black_hole_dust_particles_explosion_white_background_159: -1364541343
+      roundmouse_Black_hole_dust_particles_explosion_white_background_16: 1380153861
+      roundmouse_Black_hole_dust_particles_explosion_white_background_160: 171587000
+      roundmouse_Black_hole_dust_particles_explosion_white_background_161: 1576695392
+      roundmouse_Black_hole_dust_particles_explosion_white_background_162: 391434819
+      roundmouse_Black_hole_dust_particles_explosion_white_background_163: 1942404281
+      roundmouse_Black_hole_dust_particles_explosion_white_background_164: 1807208038
+      roundmouse_Black_hole_dust_particles_explosion_white_background_165: 1822422077
+      roundmouse_Black_hole_dust_particles_explosion_white_background_166: -1522363805
+      roundmouse_Black_hole_dust_particles_explosion_white_background_167: -528367978
+      roundmouse_Black_hole_dust_particles_explosion_white_background_168: -322903044
+      roundmouse_Black_hole_dust_particles_explosion_white_background_169: -1280975154
+      roundmouse_Black_hole_dust_particles_explosion_white_background_17: 1667752414
+      roundmouse_Black_hole_dust_particles_explosion_white_background_170: 1602391100
+      roundmouse_Black_hole_dust_particles_explosion_white_background_171: 790296818
+      roundmouse_Black_hole_dust_particles_explosion_white_background_172: -1566562656
+      roundmouse_Black_hole_dust_particles_explosion_white_background_173: 1581971669
+      roundmouse_Black_hole_dust_particles_explosion_white_background_174: 625222104
+      roundmouse_Black_hole_dust_particles_explosion_white_background_175: 1517615614
+      roundmouse_Black_hole_dust_particles_explosion_white_background_176: 1580409664
+      roundmouse_Black_hole_dust_particles_explosion_white_background_177: 82576399
+      roundmouse_Black_hole_dust_particles_explosion_white_background_178: -1129962
+      roundmouse_Black_hole_dust_particles_explosion_white_background_179: -192093802
+      roundmouse_Black_hole_dust_particles_explosion_white_background_18: -2047565732
+      roundmouse_Black_hole_dust_particles_explosion_white_background_180: 407811893
+      roundmouse_Black_hole_dust_particles_explosion_white_background_181: -1719524913
+      roundmouse_Black_hole_dust_particles_explosion_white_background_182: -1391859098
+      roundmouse_Black_hole_dust_particles_explosion_white_background_183: -2113192331
+      roundmouse_Black_hole_dust_particles_explosion_white_background_184: 898934273
+      roundmouse_Black_hole_dust_particles_explosion_white_background_185: 886937029
+      roundmouse_Black_hole_dust_particles_explosion_white_background_186: 1588225495
+      roundmouse_Black_hole_dust_particles_explosion_white_background_187: -1192245851
+      roundmouse_Black_hole_dust_particles_explosion_white_background_188: -1165431952
+      roundmouse_Black_hole_dust_particles_explosion_white_background_189: 977739173
+      roundmouse_Black_hole_dust_particles_explosion_white_background_19: 685038091
+      roundmouse_Black_hole_dust_particles_explosion_white_background_190: 1805441573
+      roundmouse_Black_hole_dust_particles_explosion_white_background_191: 601186002
+      roundmouse_Black_hole_dust_particles_explosion_white_background_192: 333786181
+      roundmouse_Black_hole_dust_particles_explosion_white_background_193: 1090694193
+      roundmouse_Black_hole_dust_particles_explosion_white_background_194: -1059345740
+      roundmouse_Black_hole_dust_particles_explosion_white_background_195: -958187439
+      roundmouse_Black_hole_dust_particles_explosion_white_background_196: 1984283785
+      roundmouse_Black_hole_dust_particles_explosion_white_background_197: -353642837
+      roundmouse_Black_hole_dust_particles_explosion_white_background_198: -1140764563
+      roundmouse_Black_hole_dust_particles_explosion_white_background_199: 839056130
+      roundmouse_Black_hole_dust_particles_explosion_white_background_2: 357896292
+      roundmouse_Black_hole_dust_particles_explosion_white_background_20: 1196332709
+      roundmouse_Black_hole_dust_particles_explosion_white_background_200: -1212213528
+      roundmouse_Black_hole_dust_particles_explosion_white_background_201: -688649615
+      roundmouse_Black_hole_dust_particles_explosion_white_background_202: 1554963597
+      roundmouse_Black_hole_dust_particles_explosion_white_background_203: -40596574
+      roundmouse_Black_hole_dust_particles_explosion_white_background_204: 673659450
+      roundmouse_Black_hole_dust_particles_explosion_white_background_205: -710416640
+      roundmouse_Black_hole_dust_particles_explosion_white_background_206: 1911576972
+      roundmouse_Black_hole_dust_particles_explosion_white_background_207: 843379357
+      roundmouse_Black_hole_dust_particles_explosion_white_background_208: -293537180
+      roundmouse_Black_hole_dust_particles_explosion_white_background_209: 477091305
+      roundmouse_Black_hole_dust_particles_explosion_white_background_21: -214618671
+      roundmouse_Black_hole_dust_particles_explosion_white_background_210: 555809157
+      roundmouse_Black_hole_dust_particles_explosion_white_background_211: -1400382180
+      roundmouse_Black_hole_dust_particles_explosion_white_background_212: -351643713
+      roundmouse_Black_hole_dust_particles_explosion_white_background_213: -190322643
+      roundmouse_Black_hole_dust_particles_explosion_white_background_214: 962356159
+      roundmouse_Black_hole_dust_particles_explosion_white_background_215: -622490111
+      roundmouse_Black_hole_dust_particles_explosion_white_background_216: 878042049
+      roundmouse_Black_hole_dust_particles_explosion_white_background_217: 92547671
+      roundmouse_Black_hole_dust_particles_explosion_white_background_218: -58463443
+      roundmouse_Black_hole_dust_particles_explosion_white_background_219: -39608898
+      roundmouse_Black_hole_dust_particles_explosion_white_background_22: 1173357238
+      roundmouse_Black_hole_dust_particles_explosion_white_background_220: -289865507
+      roundmouse_Black_hole_dust_particles_explosion_white_background_221: -759868078
+      roundmouse_Black_hole_dust_particles_explosion_white_background_222: -381766603
+      roundmouse_Black_hole_dust_particles_explosion_white_background_223: 1576458988
+      roundmouse_Black_hole_dust_particles_explosion_white_background_224: 1602991258
+      roundmouse_Black_hole_dust_particles_explosion_white_background_225: -1975793196
+      roundmouse_Black_hole_dust_particles_explosion_white_background_226: -1580352304
+      roundmouse_Black_hole_dust_particles_explosion_white_background_227: 358624910
+      roundmouse_Black_hole_dust_particles_explosion_white_background_228: -1937476791
+      roundmouse_Black_hole_dust_particles_explosion_white_background_229: 279272120
+      roundmouse_Black_hole_dust_particles_explosion_white_background_23: -1222590915
+      roundmouse_Black_hole_dust_particles_explosion_white_background_230: 2070473254
+      roundmouse_Black_hole_dust_particles_explosion_white_background_231: 820738873
+      roundmouse_Black_hole_dust_particles_explosion_white_background_232: -992178512
+      roundmouse_Black_hole_dust_particles_explosion_white_background_233: 665138516
+      roundmouse_Black_hole_dust_particles_explosion_white_background_234: 931467890
+      roundmouse_Black_hole_dust_particles_explosion_white_background_235: -1139329791
+      roundmouse_Black_hole_dust_particles_explosion_white_background_236: -1457339323
+      roundmouse_Black_hole_dust_particles_explosion_white_background_237: 1417262728
+      roundmouse_Black_hole_dust_particles_explosion_white_background_238: -1132959842
+      roundmouse_Black_hole_dust_particles_explosion_white_background_239: -1980509316
+      roundmouse_Black_hole_dust_particles_explosion_white_background_24: -115594959
+      roundmouse_Black_hole_dust_particles_explosion_white_background_240: -2120680111
+      roundmouse_Black_hole_dust_particles_explosion_white_background_241: -643812732
+      roundmouse_Black_hole_dust_particles_explosion_white_background_242: 1829399015
+      roundmouse_Black_hole_dust_particles_explosion_white_background_243: -1025593691
+      roundmouse_Black_hole_dust_particles_explosion_white_background_244: 2056575547
+      roundmouse_Black_hole_dust_particles_explosion_white_background_245: -1756380224
+      roundmouse_Black_hole_dust_particles_explosion_white_background_246: -1316544332
+      roundmouse_Black_hole_dust_particles_explosion_white_background_25: 1479750168
+      roundmouse_Black_hole_dust_particles_explosion_white_background_26: 1958054145
+      roundmouse_Black_hole_dust_particles_explosion_white_background_27: 463586579
+      roundmouse_Black_hole_dust_particles_explosion_white_background_28: 1596147541
+      roundmouse_Black_hole_dust_particles_explosion_white_background_29: -1584937857
+      roundmouse_Black_hole_dust_particles_explosion_white_background_3: -551722494
+      roundmouse_Black_hole_dust_particles_explosion_white_background_30: -2015177706
+      roundmouse_Black_hole_dust_particles_explosion_white_background_31: -1006958584
+      roundmouse_Black_hole_dust_particles_explosion_white_background_32: -1368579415
+      roundmouse_Black_hole_dust_particles_explosion_white_background_33: -1530409392
+      roundmouse_Black_hole_dust_particles_explosion_white_background_34: 904619637
+      roundmouse_Black_hole_dust_particles_explosion_white_background_35: 1294918995
+      roundmouse_Black_hole_dust_particles_explosion_white_background_36: -1518378712
+      roundmouse_Black_hole_dust_particles_explosion_white_background_37: 2043640632
+      roundmouse_Black_hole_dust_particles_explosion_white_background_38: -1283081087
+      roundmouse_Black_hole_dust_particles_explosion_white_background_39: -342749510
+      roundmouse_Black_hole_dust_particles_explosion_white_background_4: -805450941
+      roundmouse_Black_hole_dust_particles_explosion_white_background_40: 1076083621
+      roundmouse_Black_hole_dust_particles_explosion_white_background_41: 325893746
+      roundmouse_Black_hole_dust_particles_explosion_white_background_42: -1618023719
+      roundmouse_Black_hole_dust_particles_explosion_white_background_43: -823701793
+      roundmouse_Black_hole_dust_particles_explosion_white_background_44: 1543033297
+      roundmouse_Black_hole_dust_particles_explosion_white_background_45: -1901310602
+      roundmouse_Black_hole_dust_particles_explosion_white_background_46: -1471822329
+      roundmouse_Black_hole_dust_particles_explosion_white_background_47: -346356012
+      roundmouse_Black_hole_dust_particles_explosion_white_background_48: 331168450
+      roundmouse_Black_hole_dust_particles_explosion_white_background_49: 1945864818
+      roundmouse_Black_hole_dust_particles_explosion_white_background_5: -1805823273
+      roundmouse_Black_hole_dust_particles_explosion_white_background_50: 1602684487
+      roundmouse_Black_hole_dust_particles_explosion_white_background_51: -1339136114
+      roundmouse_Black_hole_dust_particles_explosion_white_background_52: -1821591307
+      roundmouse_Black_hole_dust_particles_explosion_white_background_53: -826722961
+      roundmouse_Black_hole_dust_particles_explosion_white_background_54: 138135602
+      roundmouse_Black_hole_dust_particles_explosion_white_background_55: -292757305
+      roundmouse_Black_hole_dust_particles_explosion_white_background_56: -978955804
+      roundmouse_Black_hole_dust_particles_explosion_white_background_57: -583094245
+      roundmouse_Black_hole_dust_particles_explosion_white_background_58: 106077637
+      roundmouse_Black_hole_dust_particles_explosion_white_background_59: 835498541
+      roundmouse_Black_hole_dust_particles_explosion_white_background_6: 933275422
+      roundmouse_Black_hole_dust_particles_explosion_white_background_60: 308161416
+      roundmouse_Black_hole_dust_particles_explosion_white_background_61: 91346355
+      roundmouse_Black_hole_dust_particles_explosion_white_background_62: -441041748
+      roundmouse_Black_hole_dust_particles_explosion_white_background_63: -1687215332
+      roundmouse_Black_hole_dust_particles_explosion_white_background_64: -1748795932
+      roundmouse_Black_hole_dust_particles_explosion_white_background_65: 166817348
+      roundmouse_Black_hole_dust_particles_explosion_white_background_66: 1679887819
+      roundmouse_Black_hole_dust_particles_explosion_white_background_67: 2023161435
+      roundmouse_Black_hole_dust_particles_explosion_white_background_68: -1984429476
+      roundmouse_Black_hole_dust_particles_explosion_white_background_69: 612968634
+      roundmouse_Black_hole_dust_particles_explosion_white_background_7: 1026849903
+      roundmouse_Black_hole_dust_particles_explosion_white_background_70: -2078243061
+      roundmouse_Black_hole_dust_particles_explosion_white_background_71: 1527484325
+      roundmouse_Black_hole_dust_particles_explosion_white_background_72: 1574336421
+      roundmouse_Black_hole_dust_particles_explosion_white_background_73: 77130815
+      roundmouse_Black_hole_dust_particles_explosion_white_background_74: 1582122777
+      roundmouse_Black_hole_dust_particles_explosion_white_background_75: -961933015
+      roundmouse_Black_hole_dust_particles_explosion_white_background_76: 117605730
+      roundmouse_Black_hole_dust_particles_explosion_white_background_77: -1087692079
+      roundmouse_Black_hole_dust_particles_explosion_white_background_78: 838907333
+      roundmouse_Black_hole_dust_particles_explosion_white_background_79: 373215101
+      roundmouse_Black_hole_dust_particles_explosion_white_background_8: -1289142045
+      roundmouse_Black_hole_dust_particles_explosion_white_background_80: 2145784376
+      roundmouse_Black_hole_dust_particles_explosion_white_background_81: -1159172093
+      roundmouse_Black_hole_dust_particles_explosion_white_background_82: -1120270842
+      roundmouse_Black_hole_dust_particles_explosion_white_background_83: 1741773890
+      roundmouse_Black_hole_dust_particles_explosion_white_background_84: 529594047
+      roundmouse_Black_hole_dust_particles_explosion_white_background_85: -1378674914
+      roundmouse_Black_hole_dust_particles_explosion_white_background_86: -1854739335
+      roundmouse_Black_hole_dust_particles_explosion_white_background_87: 1297775936
+      roundmouse_Black_hole_dust_particles_explosion_white_background_88: 353204856
+      roundmouse_Black_hole_dust_particles_explosion_white_background_89: -726279479
+      roundmouse_Black_hole_dust_particles_explosion_white_background_9: 1077612710
+      roundmouse_Black_hole_dust_particles_explosion_white_background_90: -2146880686
+      roundmouse_Black_hole_dust_particles_explosion_white_background_91: 431694769
+      roundmouse_Black_hole_dust_particles_explosion_white_background_92: -712105203
+      roundmouse_Black_hole_dust_particles_explosion_white_background_93: -1762878293
+      roundmouse_Black_hole_dust_particles_explosion_white_background_94: 182897065
+      roundmouse_Black_hole_dust_particles_explosion_white_background_95: 1937716562
+      roundmouse_Black_hole_dust_particles_explosion_white_background_96: -1652885712
+      roundmouse_Black_hole_dust_particles_explosion_white_background_97: -256193467
+      roundmouse_Black_hole_dust_particles_explosion_white_background_98: 481240776
+      roundmouse_Black_hole_dust_particles_explosion_white_background_99: 2137883918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

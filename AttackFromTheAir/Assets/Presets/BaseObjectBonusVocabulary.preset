@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BaseObjectBonusVocabulary
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 4963c5126e5990446820a0ec40bb4d67, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.size
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[0].DataType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[0].Description
+    value: Health
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[1].DataType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[1].Description
+    value: Repair Duration
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[2].DataType
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[2].Description
+    value: Amount
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[3].DataType
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[3].Description
+    value: Visual Type
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[4].DataType
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[4].Description
+    value: Damage
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[5].DataType
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[5].Description
+    value: Infantry Type
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[6].DataType
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[6].Description
+    value: Infantry Health
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[7].DataType
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[7].Description
+    value: Infantry Respawn Delay
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[8].DataType
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[8].Description
+    value: Medium Equipment Type
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[9].DataType
+    value: 9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[9].Description
+    value: Medium Equipment Health
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[10].DataType
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[10].Description
+    value: Medium Equipment Respawn Delay
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[11].DataType
+    value: 11
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[11].Description
+    value: Heavy Equipment Type
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[12].DataType
+    value: 12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[12].Description
+    value: Heavy Equipment Health
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[13].DataType
+    value: 13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataDescriptions.Array.data[13].Description
+    value: Heavy Equipment Respawn Delay
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectSpecialBonusDataDescriptions.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectSpecialBonusDataDescriptions.Array.data[0].SpecialBonusType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectSpecialBonusDataDescriptions.Array.data[0].Description
+    value: Additional Level Reward
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _noSpecialBonusText
+    value: <color=grey>No special bonus</color>
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _nextLevelValueDivider
+    value: <color=green>>></color>
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataFormats.Array.size
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataFormats.Array.data[0].BaseObjectDataType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataFormats.Array.data[0].ValueFormat
+    value: 0hp
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataFormats.Array.data[1].BaseObjectDataType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataFormats.Array.data[1].ValueFormat
+    value: 0min
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataFormats.Array.data[2].BaseObjectDataType
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataFormats.Array.data[2].ValueFormat
+    value: 0hp
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataFormats.Array.data[3].BaseObjectDataType
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataFormats.Array.data[3].ValueFormat
+    value: 0min
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataFormats.Array.data[4].BaseObjectDataType
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataFormats.Array.data[4].ValueFormat
+    value: 0min
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataFormats.Array.data[5].BaseObjectDataType
+    value: 13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectDataFormats.Array.data[5].ValueFormat
+    value: 0min
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectSpecialBonusDataFormats.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectSpecialBonusDataFormats.Array.data[0].SpecialBonusType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _baseObjectSpecialBonusDataFormats.Array.data[0].ValueFormat
+    value: 0$
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []

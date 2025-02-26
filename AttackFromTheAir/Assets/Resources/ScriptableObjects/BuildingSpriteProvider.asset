@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41041a1256a593a4dbccfbaf5de6c7ff, type: 3}
+  m_Name: BuildingSpriteProvider
+  m_EditorClassIdentifier: 
+  _spriteDescriptors:
+  - BuildingType: 0
+    Sprite: {fileID: 21300000, guid: f43f64d8e14d57b4db1eda5fa3a30b9a, type: 3}
+  - BuildingType: 1
+    Sprite: {fileID: 21300000, guid: 40f345cce7b0ec44db5ec4c93313df54, type: 3}
+  - BuildingType: 2
+    Sprite: {fileID: 21300000, guid: 6ffd9aabcc0b8db4c9077111a92de97e, type: 3}
+  - BuildingType: 3
+    Sprite: {fileID: 21300000, guid: 4ed0b3ea688288041bb427cf80468ef1, type: 3}
+  - BuildingType: 4
+    Sprite: {fileID: 21300000, guid: 1577a7739c28498469d4fc3e2b307eb1, type: 3}
+  - BuildingType: 5
+    Sprite: {fileID: 21300000, guid: df1a2de46faaeca4ab2a456998ef277a, type: 3}
+  - BuildingType: 6
+    Sprite: {fileID: 21300000, guid: 735bcd25b2025944e99407aec617519b, type: 3}
+  - BuildingType: 7
+    Sprite: {fileID: 21300000, guid: 735bcd25b2025944e99407aec617519b, type: 3}
+  - BuildingType: 8
+    Sprite: {fileID: 21300000, guid: edf2cd39f00f2924bb4f146e2e54ebb2, type: 3}

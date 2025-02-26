@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4eb81be07d67d9f419e802efacf7ea48, type: 3}
+  m_Name: Level 4
+  m_EditorClassIdentifier: 
+  GameMode: 0
+  AttackGameMode: 0
+  DefenceGameMode: 0
+  SurvivalGameMode: 0
+  GameModeSettings:
+    EventsToWin:
+      Events:
+      - GameEventType: 0
+        Amount: 8
+      - GameEventType: 2
+        Amount: 1
+      - GameEventType: 1
+        Amount: 1
+      Rewards: []
+    AdditionalGoals:
+      Events:
+      - GameEventType: 7
+        Amount: 1
+      Rewards: []
+    EventsToLose:
+      Events:
+      - GameEventType: 10
+        Amount: 1000
+      Rewards: []
+  MissionDescription: Test  Map
+  LevelData: {fileID: 6284718355304764387, guid: 33de0b0f6b491454aa6a046619ead57b, type: 3}
